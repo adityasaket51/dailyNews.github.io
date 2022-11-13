@@ -5,7 +5,7 @@ user can Search news for Different Different Category
 User can scroll infinite and also can Read full news article
 
 # GitHub Repository
-
+https://github.com/adityasaket51/dailyNews.github.io.git
 
 # Technologies Used
 Frontend Languages: HTML,CSS, and Client-Side JavaScript
